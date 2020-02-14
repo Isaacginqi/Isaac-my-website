@@ -1,0 +1,62 @@
+*
+{ 
+    margin: 0px;
+    padding: 0;
+}
+
+body{
+    background-image: url(field.jpg);
+}
+
+.main-nav{
+    display: center;
+}
+
+.main-nav a{
+    color:navy;
+    text-decoration: none;
+    padding: 10px;
+    border: 4px solid greenyellow;
+    margin: 20px;
+}
+
+.cover-text {
+    font-size: xx-large;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 200px;
+    color:navy;
+}
+
+.button{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.button1 a{
+    text-decoration: none;
+    color: white;
+    background-color:goldenrod;
+    padding: 20px 40px 20px 40px;
+    margin-right: 20px ;
+}
+
+.button2 a{
+    text-decoration: none;
+    color:white;
+    background-color:greenyellow;
+    padding: 20px 40px 20px 40px;
+    margin-left: 4px;
+}
+
+
+
+
+
+
+
+
+
